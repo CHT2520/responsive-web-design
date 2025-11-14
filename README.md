@@ -81,7 +81,7 @@ li {
 }
 ```
 - Check these work.
-- Most of this is fairly basic CSS. There are a couple of interesting bits
+- Most of this is fairly basic CSS. There are a couple of interesting bits:
   - By making `header-wrapper` a flexbox, its child elements (the logo and navigation icons) wrap onto the same line `justify-content:space-between` distributes these elements evenly.
   - The `cursor:pointer` is needed to make the navigation icons act like buttons. When the user moves their mouse over them a pointer icon is displayed.
 
